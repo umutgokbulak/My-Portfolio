@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../.."
+	},
+	{
+		"path": "../../../fem-single-page-developer-portfolio-main/assets/images"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "FEM"
+  }
+}
